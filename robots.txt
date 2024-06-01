@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://perediranduniawi.github.io/rss/sitemap.txt
+Sitemap: https://perediranduniawi.github.io/rss/sitemap-page.txt
